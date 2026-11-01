@@ -67,7 +67,7 @@ byte-identical from the original.
   Your browser does not support embedded videos.
 </video>
 
-[Watch full recording](https://github.com/DuAnNuoiEm/OpenAutoSand/blob/main/img/Screen%20Recording%202026-11-01%20223830.mp4)
+[Watch full recording](https://youtu.be/8Frt_72m6hM)
 
 # Join Discord https://discord.gg/BcXJr5V6t6
 
@@ -87,5 +87,5 @@ Type
 ```
 Enter and Jar will in 
 ```bash
-build\libs\autosand-premium-3.0.0.jar
+build\libs\
 ```
