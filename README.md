@@ -69,10 +69,10 @@ byte-identical from the original.
 
 # Build
 
-Extract source folder
-Open Source Folder
-Open Command Prompts or PowerShell
-Type 
+- Extract source folder
+- Open Source Folder
+- Open Command Prompts or PowerShell
+- Type: 
 ```bash
 .\gradlew.bat build
 ```
