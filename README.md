@@ -1,4 +1,4 @@
-# autosand deobf v3
+# autosand deobf v3 By Speedboy
 
 Deobfuscated, cracked and Buildable `AutoSandNew-1.0.0.jar`.
 
