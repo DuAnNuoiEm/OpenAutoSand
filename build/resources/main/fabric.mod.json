@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "autosand",
+  "version": "1.0.0",
+  "name": "AutoSandNew",
+  "description": "Tự động đào cát và giao đơn hàng.",
+  "authors": ["Dương Việt Anh"],
+  "license": "All Rights Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["autosand.AutoSandOrders"]
+  },
+  "jars": [
+    { "file": "META-INF/jars/baritone.jar" }
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
