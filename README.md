@@ -23,15 +23,6 @@ build/libs/                 gradle output (autosand-premium-3.0.0.jar)
 Tools and mapping cache: `D:\project opencode\jailbreak\deobf_tools`,
 `%TEMP%\opencode\deobf` (client.txt, intermediary.jar, map.tsv, asm jars, vineflower).
 
-## build
-
-```
-JAVA_HOME=<jdk-25>            # Loom 1.19.1 requires JVM >= 25
-gradle build                  # compile target stays Java 21
-```
-
-Output: `build/libs/autosand-premium-3.0.0.jar` (intermediary, runtime-ready).
-
 ## changes vs shipped AutoSandNew-1.0.0
 
 - `AutoSandOrders$License` (382 lines of HTTP verification, key file, seal, expiry)
